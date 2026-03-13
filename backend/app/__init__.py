@@ -1,0 +1,1 @@
+"""Application FastAPI pour la Data Quality"""
